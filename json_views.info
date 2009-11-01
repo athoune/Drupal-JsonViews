@@ -1,0 +1,8 @@
+; $Id
+name = JSON Views
+description = Provides JSON data feeds of Views queries.
+package = Views
+dependencies[] = views
+core = 6.x
+php = 5.2
+

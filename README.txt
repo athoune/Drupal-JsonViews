@@ -1,0 +1,1 @@
+Export Views as a json, for ajax fetch or external data fetching.
